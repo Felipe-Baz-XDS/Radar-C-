@@ -1,0 +1,13 @@
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar.deps.json
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar.runtimeconfig.json
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar.runtimeconfig.dev.json
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar.dll
+/home/felipe/Desktop/radar/radar/bin/Debug/netcoreapp3.1/radar.pdb
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.csprojAssemblyReference.cache
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.AssemblyInfoInputs.cache
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.AssemblyInfo.cs
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.dll
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.pdb
+/home/felipe/Desktop/radar/radar/obj/Debug/netcoreapp3.1/radar.genruntimeconfig.cache
